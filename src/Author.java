@@ -25,7 +25,6 @@ public class Author {
         this.lasName = lasName;
     }
 
-
     @Override
     public String toString() {
         return "lastName: " + lasName + ", firstName: " + firstName;
